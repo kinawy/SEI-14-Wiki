@@ -21,4 +21,4 @@ SEI ENTROPY
 2|2| [Mockup (HTML/CSS)](https://github.com/sei-entropy/warmup-w02d02-HTML-and-CSS)|[Flexbox](https://github.com/sei-entropy/lesson-w02d02-flexbox)|||[HTML/CSS Homework](https://github.com/sei-entropy/hw-w02d02-html-css)
 2|3|JS Kahoot|[DOM [Part 1]](https://github.com/sei-entropy/lesson-w02d03-dom)|||[DOM Homework](https://github.com/sei-entropy/hw-w02d03-dom)
 2|4|[MBTA Explained](https://github.com/sei-entropy/warmup-w02d04-MBTA)|[DOM [Part 2]](https://github.com/sei-entropy/lesson-w02d03-dom)|[JQuery](https://github.com/sei-entropy/lesson-w02d04-jquery)||[DOM Homework Continued](https://github.com/sei-entropy/hw-w02d03-dom)
-2|5|[Game of Zones](https://github.com/sei-entropy/warmup-w02d05-game-of-zones)|[JS Advanced](https://github.com/sei-entropy/lesson-w01d05-js-advance)|[Wireframes](https://github.com/sei-entropy/lesson-w02d05-wireframes)|[Responsive Homework](https://github.com/sei-entropy/hw-w02d05-responsive-design)
+2|5|[Game of Zones](https://github.com/sei-entropy/warmup-w02d05-game-of-zones)|[JS Advanced](https://github.com/sei-entropy/lesson-w01d05-js-advance)|[Wireframes](https://github.com/sei-entropy/lesson-w02d05-wireframes)||
