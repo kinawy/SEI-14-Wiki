@@ -10,7 +10,9 @@ Hey, guys! Here's a list of useful tips and resources for unit 1
     * **New Branch**: `git branch <branch name>` Creates a new branch.
     * **List of branches**: `git branch` Shows you a list of all your branches  
     * **Switch to a branch**: `git checkout <branch name to switch to>` Will switch to the branch specified.
-6. **Push**: `git push origin <branch name you want to push>` Will upload the changes you've **commited** to your origin (github repository).
+    * **Create and Switch to a New Branch**: `git checkout -b <branch name will be created and switch to>` Will create a branch and switch to it.
+
+6. **Push**: `git push origin <branch name you want to push>` Will upload the changes you've **committed** to your origin (github repository).
 
 --- 
 
