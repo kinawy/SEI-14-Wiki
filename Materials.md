@@ -31,4 +31,4 @@ SEI ENTROPY
 | Week | Day  | Warm Up | Lesson | Lesson | Lesson| Homework|  
 |------| ---- | ------ | ------ | -------| -----|---------|
 4|1|[Sieve](https://github.com/sei-entropy/warmup-w04d01-sieve)|[Modern JS](https://github.com/sei-entropy/lesson-w04d01-modern-js)|||CS Homework
-4|2|[Big-O](https://github.com/sei-entropy/warmup-w04d02-Big-O)|[Object Oriented JS](https://github.com/sei-entropy/lesson-w04d02-oojs)|||
+4|2|[Big-O](https://github.com/sei-entropy/warmup-w04d02-Big-O)|[Object Oriented JS](https://github.com/sei-entropy/lesson-w04d02-oojs)|||[Classes Gladiator](https://github.com/sei-entropy/hw-w04d02-js-gladiator)
