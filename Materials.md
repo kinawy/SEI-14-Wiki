@@ -22,3 +22,13 @@ SEI ENTROPY
 2|3|JS Kahoot|[DOM [Part 1]](https://github.com/sei-entropy/lesson-w02d03-dom)|||[DOM Homework](https://github.com/sei-entropy/hw-w02d03-dom)
 2|4|[MBTA Explained](https://github.com/sei-entropy/warmup-w02d04-MBTA)|[DOM [Part 2]](https://github.com/sei-entropy/lesson-w02d03-dom)|[JQuery](https://github.com/sei-entropy/lesson-w02d04-jquery)|[JS Advanced](https://github.com/sei-entropy/lesson-w02d04-js-advanced)|[JQuery Homework](https://github.com/sei-entropy/hw-w02d04-jquery)
 2|5|[Game of Zones](https://github.com/sei-entropy/warmup-w02d05-game-of-zones)|[Wireframes](https://github.com/sei-entropy/lesson-w02d05-wireframes)|||
+
+
+<br>
+<h1 align="center">Unit 2</h1>
+
+# Week 4
+| Week | Day  | Warm Up | Lesson | Lesson | Lesson| Homework|  
+|------| ---- | ------ | ------ | -------| -----|---------|
+4|1|[Sieve](https://github.com/sei-entropy/warmup-w04d01-sieve)|[Modern JS](https://github.com/sei-entropy/lesson-w04d01-modern-js)|||CS Homework
+4|2|[Big-O](https://github.com/sei-entropy/warmup-w04d02-Big-O)|[Object Oriented JS](https://github.com/sei-entropy/lesson-w04d02-oojs)|||
