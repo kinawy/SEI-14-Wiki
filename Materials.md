@@ -5,7 +5,8 @@ SEI ENTROPY
 <br>
 <h1 align="center">Unit 1</h1>
 
-# Week 1
+## Week 1
+
 | Week | Day  | Warm Up | Lesson | Lesson | Lesson| Homework|  
 |------| ---- | ------ | ------ | -------| -----|---------|
 1|1| NA | [Installfest](https://github.com/sei-entropy/installfest)|[CLI](https://github.com/sei-entropy/lesson-w01d01-cli)||[CLI Homework](https://github.com/sei-entropy/lesson-w01d01-cli)
@@ -14,7 +15,8 @@ SEI ENTROPY
 1|4|[Leap Year](https://github.com/sei-entropy/warmup-w01-d04-leapyear)|[JS Arrays](https://github.com/sei-entropy/lesson-w01d04-js-arrays)|[JS Loops](https://github.com/sei-entropy/lesson-w01-d04-js-loops)||[JS Arrays Homework](https://github.com/sei-entropy/hw-w01d04-js-arrays)
 1|5| [Count/Sum](https://github.com/sei-entropy/warmup-w01d05-arrays) | [JS Objects](https://github.com/sei-entropy/lesson-w01d05-js-objects) ||| [MBTA Homework](https://github.com/sei-entropy/hw-w01d05-js-mbta)
 
-# Week 2
+## Week 2
+
 | Week | Day  | Warm Up | Lesson | Lesson | Lesson| Homework|  
 |------| ---- | ------ | ------ | -------| -----|---------|
 2|1| [Scrabble](https://github.com/sei-entropy/warmup-w02d01-scrabble)|[JS Objects [Part 2]](https://github.com/sei-entropy/lesson-w01d05-js-objects)|[HTML & CSS](https://github.com/sei-entropy/lesson-w02d01-html-css)|[CSS Positioning](https://github.com/sei-entropy/lesson-w02d01-css-position)|[Portfolio Website](https://github.com/sei-entropy/hw-w02d01-website)
@@ -23,12 +25,22 @@ SEI ENTROPY
 2|4|[MBTA Explained](https://github.com/sei-entropy/warmup-w02d04-MBTA)|[DOM [Part 2]](https://github.com/sei-entropy/lesson-w02d03-dom)|[JQuery](https://github.com/sei-entropy/lesson-w02d04-jquery)|[JS Advanced](https://github.com/sei-entropy/lesson-w02d04-js-advanced)|[JQuery Homework](https://github.com/sei-entropy/hw-w02d04-jquery)
 2|5|[Game of Zones](https://github.com/sei-entropy/warmup-w02d05-game-of-zones)|[Wireframes](https://github.com/sei-entropy/lesson-w02d05-wireframes)|||
 
-
 <br>
 <h1 align="center">Unit 2</h1>
 
-# Week 4
+## Week 4
+
 | Week | Day  | Warm Up | Lesson | Lesson | Lesson| Homework|  
 |------| ---- | ------ | ------ | -------| -----|---------|
 4|1|[Sieve](https://github.com/sei-entropy/warmup-w04d01-sieve)|[Modern JS](https://github.com/sei-entropy/lesson-w04d01-modern-js)|||CS Homework
 4|2|[Big-O](https://github.com/sei-entropy/warmup-w04d02-Big-O)|[Object Oriented JS](https://github.com/sei-entropy/lesson-w04d02-oojs)|||[Classes Gladiator](https://github.com/sei-entropy/hw-w04d02-js-gladiator)
+4|3|[Classes](https://github.com/sei-entropy/warmup-w04d03-classes)|[Node Installation](https://github.com/sei-entropy/lesson-w04d03-node)|[Ajax/Axios](https://github.com/sei-entropy/lesson-w04d03-ajax-axios)||[API Homework](https://github.com/sei-entropy/hw-w04d03-api)
+4|4|[Recursion](https://github.com/sei-entropy/warmup-w04d04-recursion/blob/master/recursion.js)|[Axios Code-Along](https://github.com/sei-entropy/lesson-w04d04-axios-code-along)|[Axios Code Along - Momentum](https://github.com/sei-entropy/lesson-w04d04-axios-code-along)
+4|5|[Axios & API](https://github.com/sei-entropy/warmup-w04d05-axios-and-api)|[Axios Lab](https://github.com/sei-entropy/lab-w04d05-axios-lab)
+
+## Week 5
+
+| Week | Day  | Warm Up | Lesson | Lesson | Lesson| Homework|  
+|------| ---- | ------ | ------ | -------| -----|---------|
+5|1|[Frameworks Research](https://github.com/sei-entropy/warmup-w05d01-research)|[React Intro](https://github.com/sei-entropy/lesson-w05d01-react-intro)|[React Blog](https://github.com/sei-entropy/blog)|[React Film Lab](https://github.com/sei-entropy/react-film-lab)|[Lord of The Rings HW](https://github.com/sei-entropy/lesson-w05d01-react-intro/blob/master/11-lotr-codealong.md)
+5|2|[.apply() .call() .bind() Warmup](https://github.com/sei-entropy/warmup-w05-d02)|[React State](https://github.com/sei-entropy/lesson-w05d02-react-state)|||[React Film Lab Part 1](https://github.com/sei-entropy/react-film-lab)
