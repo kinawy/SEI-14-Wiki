@@ -1,4 +1,4 @@
-# Materials
+# Materials {align=center}
 
 <h1 align="center">
 SEI ENTROPY
