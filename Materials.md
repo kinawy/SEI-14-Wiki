@@ -58,7 +58,7 @@ SEI ENTROPY
 | 7    | 1   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |||
 | 7    | 2   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |||
 | 7    | 3   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |||
-| 7    | 4   | [[Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |||
+| 7    | 4   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |||
 | 7    | 5   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |||
 
 # Week 8
