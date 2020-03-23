@@ -40,54 +40,56 @@ SEI ENTROPY
 
 ## Week 5
 
-| Week | Day | Warm Up                                                                          | Lesson                                                                            | Lesson                                                              | Lesson                                                          | Homework                                                                                                          |
-| ---- | --- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| 5    | 1   | [Frameworks Research](https://github.com/sei-entropy/warmup-w05d01-frameworks-research)     | [React Intro](https://github.com/sei-entropy/lesson-w05d01-react-intro)           | [React Blog](https://github.com/sei-entropy/blog)                   | [React Film Lab](https://github.com/sei-entropy/react-film-lab) | [Lord of The Rings HW](https://github.com/sei-entropy/lesson-w05d01-react-intro/blob/master/11-lotr-codealong.md) |
+| Week | Day | Warm Up                                                                                                  | Lesson                                                                            | Lesson                                                              | Lesson                                                          | Homework                                                                                                          |
+| ---- | --- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 5    | 1   | [Frameworks Research](https://github.com/sei-entropy/warmup-w05d01-frameworks-research)                  | [React Intro](https://github.com/sei-entropy/lesson-w05d01-react-intro)           | [React Blog](https://github.com/sei-entropy/blog)                   | [React Film Lab](https://github.com/sei-entropy/react-film-lab) | [Lord of The Rings HW](https://github.com/sei-entropy/lesson-w05d01-react-intro/blob/master/11-lotr-codealong.md) |
 | 5    | 2   | [.apply() .call() .bind() Warmup](https://github.com/sei-entropy/warmup-w05d02-research-apply-call-bind) | [React State](https://github.com/sei-entropy/lesson-w05d02-react-state)           |                                                                     |                                                                 | [React Film Lab Part 1](https://github.com/sei-entropy/react-film-lab)                                            |
-| 5    | 3   | [Harry Potter React](https://github.com/sei-entropy/warmup-w05d03-react-components)         | [React Functional](https://github.com/sei-entropy/lesson-w05d03-react-functional) | [Fruit App](https://github.com/sei-entropy/fruit-app)               |                                                                 | [React Film Lab Part 2](https://github.com/sei-entropy/react-film-lab)                                            |
-| 5    | 4   | [Question Cards](https://github.com/sei-entropy/warmup-w05d04-react-cards)                   | [Axios React](https://github.com/sei-entropy/lesson-w05d04-axios-react)           |                                                                     |                                                                 | [React Film Lab Part 3](https://github.com/sei-entropy/react-film-lab)                                            |
-| 5    | 5   | Kahoot!                                                                          | [React Router](https://github.com/sei-entropy/lesson-w05d05-react-router-lesson)  | [Bootstrap](https://github.com/sei-entropy/lesson-w05d05-Bootstrap) |                                                                 | [React Film Lab Part 4](https://github.com/sei-entropy/react-film-lab)                                            |
+| 5    | 3   | [Harry Potter React](https://github.com/sei-entropy/warmup-w05d03-react-components)                      | [React Functional](https://github.com/sei-entropy/lesson-w05d03-react-functional) | [Fruit App](https://github.com/sei-entropy/fruit-app)               |                                                                 | [React Film Lab Part 2](https://github.com/sei-entropy/react-film-lab)                                            |
+| 5    | 4   | [Question Cards](https://github.com/sei-entropy/warmup-w05d04-react-cards)                               | [Axios React](https://github.com/sei-entropy/lesson-w05d04-axios-react)           |                                                                     |                                                                 | [React Film Lab Part 3](https://github.com/sei-entropy/react-film-lab)                                            |
+| 5    | 5   | Kahoot!                                                                                                  | [React Router](https://github.com/sei-entropy/lesson-w05d05-react-router-lesson)  | [Bootstrap](https://github.com/sei-entropy/lesson-w05d05-Bootstrap) |                                                                 | [React Film Lab Part 4](https://github.com/sei-entropy/react-film-lab)                                            |
 
 <br>
 <h1 align="center">Unit 3</h1>
 
+## Week 7
 
-# Week 7
-| Week | Day | Warm Up                                                             | Lesson                                                                         | Lesson                                                                              | Lesson | Homework |
-| ---- | --- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ------ | -------- |
-| 7    | 1   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |||
-| 7    | 2   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |||
-| 7    | 3   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |||
-| 7    | 4   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |||
-| 7    | 5   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |||
+| Week | Day | Warm Up                                                             | Lesson                                                                                   | Lesson                                                                                  | Lesson | Homework |
+| ---- | --- | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------ | -------- |
+| 7    | 1   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |        |          |
+| 7    | 2   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |        |          |
+| 7    | 3   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |        |          |
+| 7    | 4   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |        |          |
+| 7    | 5   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |        |          |
 
-# Week 8
-| Week | Day | Warm Up                                                             | Lesson                                                                         | Lesson                                                                              | Lesson | Homework |
-| ---- | --- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ------ | -------- |
-| 8    | 1   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |||
-| 8    | 2   | | | |||
-| 8    | 3   | | | |||
-| 8    | 4   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |||
-| 8    | 5   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |||
+## Week 8
+
+| Week | Day | Warm Up                                                             | Lesson                                                                                   | Lesson                                                                                  | Lesson | Homework |
+| ---- | --- | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------ | -------- |
+| 8    | 1   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |        |          |
+| 8    | 2   |                                                                     |                                                                                          |                                                                                         |        |          |
+| 8    | 3   |                                                                     |                                                                                          |                                                                                         |        |          |
+| 8    | 4   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |        |          |
+| 8    | 5   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |        |          |
 
 <br>
 <h1 align="center">Unit 4</h1>
 
+## Week 10
 
-# Week 10
-| Week | Day | Warm Up                                                             | Lesson                                                                         | Lesson                                                                              | Lesson | Homework |
-| ---- | --- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ------ | -------- |
-| 10    | 1   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |||
-| 10    | 2   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |||
-| 10    | 3   | | | |||
-| 10    | 4   | | | |||
-| 10    | 5   | | | |||
+| Week | Day | Warm Up                                                             | Lesson                                                                                   | Lesson                                                                                  | Lesson | Homework |
+| ---- | --- | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------ | -------- |
+| 10   | 1   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |        |          |
+| 10   | 2   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/sei-entropy/lesson-w07d01-express#intro-to-express-1) | [Express Middleware](https://github.com/sei-entropy/lesson-w07d01-express#middleware-1) |        |          |
+| 10   | 3   |                                                                     |                                                                                          |                                                                                         |        |          |
+| 10   | 4   |                                                                     |                                                                                          |                                                                                         |        |          |
+| 10   | 5   |                                                                     |                                                                                          |                                                                                         |        |          |
 
-# Week 11
-| Week | Day | Warm Up                                                             | Lesson                                                                         | Lesson                                                                              | Lesson | Homework |
-| ---- | --- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ------ | -------- |
-| 11    | 1   | | | |||
-| 11    | 2   | | | |||
-| 11    | 3   | | | |||
-| 11    | 4   | | | |||
-| 11    | 5   | | | |||
+## Week 11
+
+| Week | Day | Warm Up | Lesson | Lesson | Lesson | Homework |
+| ---- | --- | ------- | ------ | ------ | ------ | -------- |
+| 11   | 1   |         |        |        |        |          |
+| 11   | 2   |         |        |        |        |          |
+| 11   | 3   |         |        |        |        |          |
+| 11   | 4   |         |        |        |        |          |
+| 11   | 5   |         |        |        |        |          |
