@@ -56,3 +56,16 @@ SEI ENTROPY
 | Week | Day | Warm Up                                                             | Lesson                                                                         | Lesson                                                                              | Lesson | Homework |
 | ---- | --- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ------ | -------- |
 | 7    | 1   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/wdi-infinity/lesson-week_10-day_01-express) | [Express Middleware](https://github.com/wdi-infinity/lesson-week_10-day_01-express) |||
+| 7    | 2   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/wdi-infinity/lesson-week_10-day_01-express) | [Express Middleware](https://github.com/wdi-infinity/lesson-week_10-day_01-express) |||
+| 7    | 3   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/wdi-infinity/lesson-week_10-day_01-express) | [Express Middleware](https://github.com/wdi-infinity/lesson-week_10-day_01-express) |||
+| 7    | 4   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/wdi-infinity/lesson-week_10-day_01-express) | [Express Middleware](https://github.com/wdi-infinity/lesson-week_10-day_01-express) |||
+| 7    | 5   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/wdi-infinity/lesson-week_10-day_01-express) | [Express Middleware](https://github.com/wdi-infinity/lesson-week_10-day_01-express) |||
+
+# Week 8
+| Week | Day | Warm Up                                                             | Lesson                                                                         | Lesson                                                                              | Lesson | Homework |
+| ---- | --- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ------ | -------- |
+| 8    | 1   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/wdi-infinity/lesson-week_10-day_01-express) | [Express Middleware](https://github.com/wdi-infinity/lesson-week_10-day_01-express) |||
+| 8    | 2   | | | |||
+| 8    | 3   | | | |||
+| 8    | 4   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/wdi-infinity/lesson-week_10-day_01-express) | [Express Middleware](https://github.com/wdi-infinity/lesson-week_10-day_01-express) |||
+| 8    | 5   | [Group Git](https://github.com/sei-entropy/lesson-w07d01-group-git) | [Express Intro](https://github.com/wdi-infinity/lesson-week_10-day_01-express) | [Express Middleware](https://github.com/wdi-infinity/lesson-week_10-day_01-express) |||
