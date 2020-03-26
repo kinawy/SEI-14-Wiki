@@ -61,13 +61,13 @@
 
 ## Week 8
 
-| Week | Day | Warm Up                                                                           | Lesson                                                                  | Lesson                                                          | Lesson | Homework |
-| ---- | --- | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------- | ------ | -------- |
-| 8    | 1   | [Sort Algorithms](https://github.com/sei-entropy/warmup-w08-d01-sort-algortithms) | [Blogy Backend](https://github.com/sei-entropy/blogy)                   | [Blogy Frontend](https://github.com/sei-entropy/blogy-frontend) |        |          |
-| 8    | 2   |                                                                                   |                                                                         |                                                                 |        |          |
-| 8    | 3   |                                                                                   |                                                                         |                                                                 |        |          |
-| 8    | 4   | Zoom Onboarding                                                                   | Continue Blogy App                                                      |                                                                 |        |          |
-| 8    | 5   |                                                                                   | [Express Template](https://github.com/sei-entropy/express-api-template) | [React Template](https://github.com/sei-entropy/react-template) |        |          |
+| Week | Day | Warm Up                                                                           | Lesson                                                                  | Lesson                                                              | Lesson | Homework |
+| ---- | --- | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ------ | -------- |
+| 8    | 1   | [Sort Algorithms](https://github.com/sei-entropy/warmup-w08-d01-sort-algortithms) | [Blogy Backend](https://github.com/sei-entropy/blogy)                   | [Blogy Frontend](https://github.com/sei-entropy/blogy-frontend)     |        |          |
+| 8    | 2   |                                                                                   |                                                                         |                                                                     |        |          |
+| 8    | 3   |                                                                                   |                                                                         |                                                                     |        |          |
+| 8    | 4   | Zoom Onboarding                                                                   | Continue Blogy App                                                      | [Project 3 Prompt](https://github.com/sei-entropy/project-3-prompt) |        |          |
+| 8    | 5   |                                                                                   | [Express Template](https://github.com/sei-entropy/express-api-template) | [React Template](https://github.com/sei-entropy/react-template)     |        |          |
 
 ## Week 9
 
