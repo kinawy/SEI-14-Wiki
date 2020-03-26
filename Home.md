@@ -16,6 +16,12 @@ Hi folks, Welcome to SEI Entropy. This wiki contains information, Homework, Assi
 
 - **Sager Alarifi** (Instructional Associate)
 
+## For Support use this link
+
+- [qHelp](https://seientropy.herokuapp.com/)
+
+
+
 ## Schedule
 
 || Days | Time
