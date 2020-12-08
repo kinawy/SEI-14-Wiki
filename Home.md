@@ -1,38 +1,34 @@
 <h1 align="center">
-SEI ENTROPY
+SEI-14
 </h1>
 
-Hi folks, Welcome to SEI Entropy. This wiki contains information, Homework, Assignments, Projects and Materials specific to your course.
+Hi folks, Welcome to SEI SEI-14. This wiki contains information, Homework, Assignments, Projects and Materials specific to your course.
 
 ## Instructional Team
-- **Usman Bashir** (Lead Instructor)
-
 
 - **Mohammad Jouza** (Lead Instructor)
 
+- **Raymond Maroun** (Lead Instructor)
 
-- **Hisham Aljahbali** (Instructional Associate)
+- **Jaber Alsalamah** (Instructional Associate)
 
-
-- **Sager Alarifi** (Instructional Associate)
+- **Sameh Kinawy** (Instructional Associate)
 
 ## For Support use this link
 
-- [qHelp](https://seientropy.herokuapp.com/)
-
-
+- [qHelp](https://sei-14.herokuapp.com/)
 
 ## Schedule
 
-|| Days | Time
--- | -- | --
-Class | Sunday - Thursday | 9am - 5pm
-Career Coaching | Thursday | 10am - 12pm 
-Office Hours | Tuesday | 5pm - 7pm
+| Title           | Days               | Time            |
+| --------------- | ------------------ | --------------- |
+| Class           | Sunday - Thursday  | 9 AM - 5 PM     |
+| Office Hours    | Tuesday            | 5 PM - 7 PM     |
+| Career Coaching | Tuesday (Biweekly) | 9 AM - 10:45 PM |
 
-| | Breaks 
--- | -- 
-Coffee | 10am - 10:10am
-Lunch | 12pm - 1pm 
-Prayer | 3pm - 3:30pm 
 
+| Title  | Breaks          |
+| ------ | --------------- |
+| Coffee | 9:45 AM - 10 AM |
+| Lunch  | 12 PM - 1 PM    |
+| Prayer | 3 PM - 3:30 PM  |
